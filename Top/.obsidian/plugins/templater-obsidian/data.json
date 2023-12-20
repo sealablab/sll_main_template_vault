@@ -21,6 +21,18 @@
     {
       "folder": "Lab/N",
       "template": "Lab/Templates/N.md"
+    },
+    {
+      "folder": "Lab/Vendors",
+      "template": "Lab/Templates/Vendor.md"
+    },
+    {
+      "folder": "Lab/DevBoards",
+      "template": "Lab/Templates/DevBoard.md"
+    },
+    {
+      "folder": "Lab/Chips",
+      "template": "Lab/Templates/Chip.md"
     }
   ],
   "syntax_highlighting": true,
